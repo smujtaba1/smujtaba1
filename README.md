@@ -4,8 +4,9 @@ Check out my React apps, or see my HTML CSS JS apps in my [GH Pages Repo](https:
 
 ## Shortcuts
 
-1. Option1
-  1. GGG
+* HTML CSS Javascript
+  1. 1st
+  2. 2nd
 
 <!--
 **smujtaba1/smujtaba1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
