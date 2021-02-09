@@ -1,6 +1,11 @@
-### Welcome to my Github
+# Welcome to my Github
 
 Check out my React apps, or see my HTML CSS JS apps in my [GH Pages Repo](https://github.com/smujtaba1/smujtaba1.github.io)
+
+##Shortcuts
+
+1. 
+
 <!--
 **smujtaba1/smujtaba1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
