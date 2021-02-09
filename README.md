@@ -2,12 +2,14 @@
 
 Check out my React apps, or see my HTML CSS JS apps in my [GH Pages Repo](https://github.com/smujtaba1/smujtaba1.github.io)
 
-## Shortcuts
+## Quick Links
 
-* HTML CSS Javascript
+* HTML CSS Javascript 
   * 1st
   * 2nd
 
+* React Apps
+  * [The Color Blue](https://smujtaba1.github.io/thecolorblue)
 <!--
 **smujtaba1/smujtaba1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
