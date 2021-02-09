@@ -2,7 +2,7 @@
 
 Check out my React apps, or see my HTML CSS JS apps in my [GH Pages Repo](https://github.com/smujtaba1/smujtaba1.github.io)
 
-## Quick Links to All Work
+## Quick Links to All My Work
 
 * HTML CSS Javascript 
   * [Allstate Home Page Clone](https://smujtaba1.github.io/allstate/index.html) 
