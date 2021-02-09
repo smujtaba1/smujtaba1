@@ -4,7 +4,7 @@ Check out my React apps, or see my HTML CSS JS apps in my [GH Pages Repo](https:
 
 ## Shortcuts
 
-1. HTML CSS Javascript
+* HTML CSS Javascript
   * 1st
   * 2nd
 
