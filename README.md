@@ -1,5 +1,5 @@
 # Seemaab Mujtaba
-###Front End Developer
+### Front End Developer
 
 Check out my React apps, or see my HTML CSS JS apps in my [GH Pages Repo](https://github.com/smujtaba1/smujtaba1.github.io)
 
