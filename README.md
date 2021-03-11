@@ -5,10 +5,10 @@ Check out my React apps, or see my HTML CSS JS apps in my [GH Pages Repo](https:
 
 ## Quick Links to My Work
 
-* HTML CSS Javascript 
+##### HTML CSS Javascript 
   * [Allstate Home Page Clone](https://smujtaba1.github.io/allstate/index.html) 
   
-* React Apps
+##### React Apps
   * [Tech World](https://smujtaba1.github.io/techworld)
   * [The Color Blue](https://smujtaba1.github.io/thecolorblue)
   * [Jet-Strike](https://smujtaba1.github.io/jet-strike)
