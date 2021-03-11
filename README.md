@@ -13,6 +13,8 @@ Check out my React apps, or see my HTML CSS JS apps in my [GH Pages Repo](https:
   * [The Color Blue](https://smujtaba1.github.io/thecolorblue)
   * [Jet-Strike](https://smujtaba1.github.io/jet-strike)
   
+  
+<p style="color:blue">Testing it out</p>
 <!--
 **smujtaba1/smujtaba1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
