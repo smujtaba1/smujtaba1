@@ -6,6 +6,10 @@
                 color: red;
                 animation: mymove 2s infinite;
             }
+                
+            p {
+               color:green;
+            }
 
             @keyframes mymove {
                 from {
@@ -17,6 +21,7 @@
             }
             </style>
             <h1>HELLO WORLD!</h1>
+            <p>Testing Github HTML and styling Limitiations.</p>
         </div>
     </foreignObject>
 </svg>
