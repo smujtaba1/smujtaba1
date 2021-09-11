@@ -16,7 +16,7 @@
                     color: red;
                 }
                 to {
-                    color: black;
+                    color: yellow;
                 }
             }
                 
