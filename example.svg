@@ -13,10 +13,10 @@
 
             @keyframes mymove {
                 from {
-                    display: block;
+                    color: black;
                 }
                 to {
-                    display: none;
+                    color:red;
                 }
             }
                 
