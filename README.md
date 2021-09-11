@@ -2,9 +2,7 @@
     <a href="https://smujtaba1.github.io">
         <img src="hero.svg" alt="css-in-readme">
     </a>
-    <a href="https://smujtaba1.github.io/techworld">
-        <img src="projectsection.svg">
-    </a>
+    <h2>See My Projects</h2>
 </div>
 
 
