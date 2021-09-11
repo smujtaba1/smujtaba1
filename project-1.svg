@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="161" height="161" viewBox="0 0 161 161">
+  <g id="Group_1" data-name="Group 1" transform="translate(-287 -641)">
+    <g id="Rectangle_27" data-name="Rectangle 27" transform="translate(287 641)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="161" height="161" stroke="none"/>
+      <rect x="0.5" y="0.5" width="160" height="160" fill="none"/>
+    </g>
+    <text id="BOX_1" data-name="BOX 1" transform="translate(329 730)" fill="#752fdf" font-size="27" font-family="MyanmarText-Bold, Myanmar Text" font-weight="700"><tspan x="0" y="0">BOX 1</tspan></text>
+  </g>
+</svg>
