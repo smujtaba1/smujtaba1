@@ -5,6 +5,27 @@
     <a href="https://smujtaba1.github.io">
         <img src="project-1.svg">
     </a>
+    <a href="https://smujtaba1.github.io">
+        <img src="project-1.svg">
+    </a>
+    <a href="https://smujtaba1.github.io">
+        <img src="project-1.svg">
+    </a>
+    <a href="https://smujtaba1.github.io">
+        <img src="project-1.svg">
+    </a>
+    <a href="https://smujtaba1.github.io">
+        <img src="project-1.svg">
+    </a>
+    <a href="https://smujtaba1.github.io">
+        <img src="project-1.svg">
+    </a>
+    <a href="https://smujtaba1.github.io">
+        <img src="project-1.svg">
+    </a>
+    <a href="https://smujtaba1.github.io">
+        <img src="project-1.svg">
+    </a>
     
 </div>
 
