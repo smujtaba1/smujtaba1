@@ -23,6 +23,7 @@
             </style>
             <h1>HELLO WORLD!</h1>
             <p>Testing Github HTML and styling Limitiations.</p>
+            <span>A LOT OF TEXT</span><span>A LOT OF TEXT</span><span>A LOT OF TEXT</span><span>A LOT OF TEXT</span><span>A LOT OF TEXT</span>
         </div>
     </foreignObject>
 </svg>
