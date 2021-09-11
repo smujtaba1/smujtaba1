@@ -3,9 +3,7 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             .backgroundHero {
-                background-color:black;
-                height:400px;
-                width:400px;
+                background-image: url('arrow.svg');
             }
             </style>
             <div class="backgroundHero"></div>
