@@ -19,6 +19,13 @@
                     color: yellow;
                 }
             }
+                
+            @media screen and (max-width: 700px) {
+                h1 {
+                    display:none;
+                }
+                
+            }
             </style>
             <h1>HELLO WORLD!</h1>
             <p>Testing Github HTML and styling Limitiations.</p>
