@@ -1,4 +1,5 @@
 <svg id="Group_3" data-name="Group 3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1212" height="461" viewBox="0 0 1212 461">
+  <a href="https://google.com">
   <defs>
     <filter id="Rectangle_2" x="330" y="117" width="526" height="210" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
@@ -174,4 +175,5 @@
     <path id="Path_817" data-name="Path 817" d="M905.536,641.389c.136,29.446-20.582,53.414-20.582,53.414s-20.937-23.775-21.073-53.222,20.581-53.414,20.581-53.414S905.4,611.943,905.536,641.389Z" transform="translate(23.406 -164.771)" fill="#087e04"/>
   </g>
   <line id="Line_1" data-name="Line 1" x2="174" transform="translate(445.5 190.5)" fill="none" stroke="#dc3030" stroke-width="2"/>
+  </a>
 </svg>
