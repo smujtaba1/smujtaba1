@@ -1,7 +1,11 @@
 <div align="center">
-    <a href="https://google.com">
+    <a href="https://smujtaba1.github.io">
     <img src="billboard.svg" alt="css-in-readme">
     </a>
+    <a href="https://smujtaba1.github.io">
+        <img src="project-1.svg">
+    </a>
+    
 </div>
 
 
