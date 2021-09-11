@@ -1,18 +1,9 @@
 <div align="center">
     <a href="https://smujtaba1.github.io">
-        <img src="billboard.svg" alt="css-in-readme">
+        <img src="hero.svg" alt="css-in-readme">
     </a>
     <a href="https://smujtaba1.github.io/techworld">
-        <img src="project-1.svg">
-    </a>
-    <a href="https://smujtaba1.github.io/thecolorblue">
-        <img src="project-1.svg">
-    </a>
-    <a href="https://smujtaba1.github.io/jet-strike">
-        <img src="project-1.svg">
-    </a>
-    <a href="https://smujtaba1.github.io/allstate/index.html">
-        <img src="project-1.svg">
+        <img src="projectsection.svg">
     </a>
 </div>
 
