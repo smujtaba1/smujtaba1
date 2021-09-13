@@ -6,7 +6,7 @@
         <h2>See My Projects</h2>
         <img src="arrow.svg" alt="css-in-readme">
     </div>
-    <div><img src="backgroundHero.svg"></div>
+    
 </div>
 
 
