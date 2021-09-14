@@ -7,7 +7,12 @@
                     width:800px;
                 }
                 
+                div {
+                    background:red;
+                }
+                
             </style>
+            <div>
             <svg id="Group_3" data-name="Group 3" xmlns="http://www.w3.org/2000/svg" width="1212" height="461" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1212 461">
               <defs>
                 <filter id="Rectangle_2" x="330" y="117" width="526" height="210" filterUnits="userSpaceOnUse">
@@ -185,7 +190,7 @@
               </g>
               <line id="Line_1" data-name="Line 1" x2="174" transform="translate(445.5 190.5)" fill="none" stroke="#dc3030" stroke-width="2"/>
             </svg>
-
+            </div>
         </div>
         
 
