@@ -1,12 +1,5 @@
 <div align="center">
-    <a href="https://smujtaba1.github.io">
-        <img style="display: block;" src="hero.svg" alt="css-in-readme">
-    </a>
-    <div>
-        <h2>See My Projects</h2>
-        <img src="arrow.svg" alt="css-in-readme">
-    </div>
-    
+    <img style="display: block;" src="entry.svg" alt="css-in-readme">
 </div>
 
 
