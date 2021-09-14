@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://smujtaba1.github.io">
-        <img style="width: 100%; height: 100%;" src="hero.svg" alt="css-in-readme">
+        <img style="display: block;" src="hero.svg" alt="css-in-readme">
     </a>
     <div>
         <h2>See My Projects</h2>
