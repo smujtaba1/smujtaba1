@@ -1,3 +1,3 @@
 <a href="https://google.com">
-  ![](./entry.svg)
+  <img src="entry.svg">
 </a>
